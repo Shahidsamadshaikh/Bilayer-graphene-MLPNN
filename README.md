@@ -5,4 +5,4 @@
 #### fermi-data.py contained python code for genreting the data set for fermi velocity
 #### training.py contained python code for training neural network
 
-$ a^2$
+$a^2$
